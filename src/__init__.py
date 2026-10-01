@@ -1,3 +1,0 @@
-"""
-Accident Hotspot Prediction Package
-"""
